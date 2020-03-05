@@ -1,4 +1,4 @@
-# Node-JS-MySQl-Angular
+# Node-JS-MySQl-Angular + Token
 Node JS, MySQL ve Angular ile signin, signup işlemi yapan uygulama.
 
 Kurulum için komut satırı ile Nodejs Ve Angular dosylarının içindeyken npm install komutu ile node_modules dosyalarını kurup çalıştırıabilirsiniz.
